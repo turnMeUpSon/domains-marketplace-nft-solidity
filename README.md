@@ -2,7 +2,7 @@
 
 ## Technology Stack & Tools
 
-##My code
+## My code
 
 - Solidity (Writing Smart Contracts & Tests)
 - Javascript (React & Testing)
