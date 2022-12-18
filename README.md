@@ -1,4 +1,4 @@
-# ETH Daddy
+# Domain NFT Marketplace
 
 ## Technology Stack & Tools
 
