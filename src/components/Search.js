@@ -9,15 +9,12 @@ const Search = () => {
           className="header__input"
           placeholder="Find your domain"
         />
-        <button
-          type="button"
-          className='header__button'
-        >
+        <button type="button" className="header__button">
           Buy It
         </button>
       </div>
     </header>
   );
-}
+};
 
 export default Search;
