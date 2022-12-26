@@ -1,4 +1,4 @@
-# Domain NFT Marketplace
+# Domains NFT Marketplace
 
 ![Image](https://github.com/turnMeUpSon/domain-marketplace-nft-solidity/blob/master/Screenshot%20from%202022-12-18%2013-13-16.png)
 ![Image](https://github.com/turnMeUpSon/domain-marketplace-nft-solidity/blob/master/Screenshot%20from%202022-12-18%2013-13-37.png)
